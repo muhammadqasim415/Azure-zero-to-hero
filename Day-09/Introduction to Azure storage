@@ -14,3 +14,6 @@ There are 4 most important azure storage services .
 2.File Storage
 3.Table Storage
 4.Queue Storage
+
+How to create a storage Account?
+https://learn.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal      // This link is very helpfull
