@@ -8,3 +8,9 @@ Easy to manage – you can use tools like Azure Portal, Azure CLI, PowerShell, o
 In short: Azure Storage helps store and manage data online, securely and from anywhere.
 
 First Create a azure Account every service using or creating through azure account.
+
+There are 4 most important azure storage services .
+1.Blob storage 
+2.File Storage
+3.Table Storage
+4.Queue Storage
