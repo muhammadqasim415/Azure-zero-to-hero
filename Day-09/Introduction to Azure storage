@@ -6,3 +6,5 @@ Accessible globally – you can access your data from anywhere using the interne
 Developer-friendly – supports many programming languages like .NET, Java, Python, etc.
 Easy to manage – you can use tools like Azure Portal, Azure CLI, PowerShell, or Azure Storage Explorer to manage your data.
 In short: Azure Storage helps store and manage data online, securely and from anywhere.
+
+First Create a azure Account every service using or creating through azure account.
