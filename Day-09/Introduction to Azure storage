@@ -1,5 +1,5 @@
 Azure Storage is Microsoft’s online service to store different types of data safely in the cloud. It is:
-    Benefits of Azure Storage
+   -------------- Benefits of Azure Storage---------------
 Reliable and secure – your data stays safe and available.
 Scalable – it can handle small to very large amounts of data.
 Accessible globally – you can access your data from anywhere using the internet.
